@@ -1,0 +1,7 @@
+# prop_name, value
+name,karate (78)
+description,"Network of friendships among members of a university karate club. Includes metadata for faction membership after a social partition. Note: there are two versions of this network, one with 77 edges and one with 78, due to an ambiguous typo in the original study. (The most commonly used is the one with 78 edges.)[^icon]
+[^icon]: Description obtained from the [ICON](https://icon.colorado.edu) project."
+citation,"['W. W. Zachary, \"An information flow model for conflict and fission in small groups.\" Journal of Anthropological Research 33, 452-473 (1977)., https://doi.org/10.1086/jar.33.4.3629752']"
+url,https://aaronclauset.github.io/datacode.htm
+tags,"['Social', 'Offline', 'Unweighted']"
